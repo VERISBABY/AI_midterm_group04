@@ -8,7 +8,7 @@ This is the midterm assignment solutions of course: Introduction to Artificial I
 + Benedict Timothy Chibuike do Task 2
 + Trần Thị Thế Nhân do Task 3
 
-*Task 1: A* with 8-Puzzle*
+***Task 1: A** with 8-Puzzle*
 
 In the 8-puzzle game, you have to move tiles, given an initial state, to obtain one 
 goal state. Note that
