@@ -1,14 +1,15 @@
 # AI_midterm_group04
 This is the midterm assignment solutions of course: Introduction to Artificial Intelligence of group 04
 
-University: Ton Duc Thang
+*University*: Ton Duc Thang
 
-Members:
+*Members*:
 + Nguyễn Thị Quế Châu do Task 1
 + Benedict Timothy Chibuike do Task 2
 + Trần Thị Thế Nhân do Task 3
 
-Task 1: A* with 8-Puzzle
+*Task 1: A* with 8-Puzzle*
+
 In the 8-puzzle game, you have to move tiles, given an initial state, to obtain one 
 goal state. Note that
 • The initial state can be arbitrary permutation of 8 tiles and the blank cell.
@@ -28,7 +29,8 @@ cost of the solution.
 • Students organize the program regarding to the OOP model, ensure source code 
 is compact and reasonable.
 
-Task 2: A* with Pacman
+**Task 2: A* with Pacman*
+
 Students implement search strategies to help the pacman to collect all food points in 
 the maze.
 • Formulate the given problem in form of a state space, determine details of related 
@@ -48,9 +50,7 @@ after eating a pie.
 § There are no ghosts in the maze.
 § If the pacman reaches to a corner, then it automatically teleports to 
 the opposite corner of the maze.
-Ton Duc Thang University
-Faculty of Information Technology
-503043 – Introduction to AI nguyenthanhan@tdtu.edu.vn 3/4
+
 o Visualization: students visualize game steps on the console screen (press 
 a key to start animation, do not need to press Enter for each step). Students 
 are highly recommended to use the pygame library (0.5 bonus points).
@@ -58,7 +58,8 @@ are highly recommended to use the pygame library (0.5 bonus points).
 is compact and reasonable.
 • Recommended editor: Visual Studio Code
 
-Task 3: 16-queens
+*Task 3: 16-queens*
+
 The problem is to place 16 queens on a chess board 16 x 16 so that there is no pair 
 of them attacking each other.
 Students formulate the game in form of a local search problem and implement a 
