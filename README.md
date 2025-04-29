@@ -64,6 +64,7 @@ is compact and reasonable.
 
 The problem is to place 16 queens on a chess board 16 x 16 so that there is no pair 
 of them attacking each other.
+
 Students formulate the game in form of a local search problem and implement a 
 genetic algorithm to solve it, in which:
 • The crossover step occurs at two random points.
