@@ -20,6 +20,7 @@ Note that
 • The initial state can be arbitrary permutation of 8 tiles and the blank cell.
 
 • There are four goal states as below.
+
 ![alt text](https://raw.githubusercontent.com/VERISBABY/AI_midterm_group04/refs/heads/main/s1.png)
 
 • After a move
