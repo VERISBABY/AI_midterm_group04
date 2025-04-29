@@ -1,6 +1,8 @@
 # AI_midterm_group04
 This is the midterm assignment solutions of course: Introduction to Artificial Intelligence of group 04
+
 University: Ton Duc Thang
+
 Members:
 + Nguyễn Thị Quế Châu do Task 1
 + Benedict Timothy Chibuike do Task 2
