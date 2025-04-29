@@ -8,6 +8,9 @@ This is the midterm assignment solutions of course: Introduction to Artificial I
 + Benedict Timothy Chibuike do Task 2
 + Trần Thị Thế Nhân do Task 3
 
+*demo.txt contain a link is a demo result video of our solutions*
+
+*Requirements*:
 Task 1: A* with 8-Puzzle
 
 In the 8-puzzle game, you have to move tiles, given an initial state, to obtain one 
@@ -15,6 +18,10 @@ goal state.
 
 Note that
 • The initial state can be arbitrary permutation of 8 tiles and the blank cell.
+
+• There are four goal states as below.
+![alt text](https://raw.githubusercontent.com/VERISBABY/AI_midterm_group04/refs/heads/main/s1.png)
+
 • After a move
 o If cell 1 and cell 3 are adjacent to each other, horizontally or vertically, 
 they are automatically swapped.
@@ -35,8 +42,10 @@ Task 2: A* with Pacman
 
 Students implement search strategies to help the pacman to collect all food points in 
 the maze.
+
 • Formulate the given problem in form of a state space, determine details of related 
 components.
+
 • Implement the A* algorithms to solve the problem, discuss the admissibility and 
 consistency of the selected heuristic.
 • Implement a complete program to execute designated algorithms, in which
@@ -58,7 +67,6 @@ a key to start animation, do not need to press Enter for each step). Students
 are highly recommended to use the pygame library (0.5 bonus points).
 • Students organize the program regarding to the OOP model, ensure source code 
 is compact and reasonable.
-• Recommended editor: Visual Studio Code
 
 *Task 3: 16-queens*
 
@@ -67,6 +75,12 @@ of them attacking each other.
 
 Students formulate the game in form of a local search problem and implement a 
 genetic algorithm to solve it, in which:
+
 • The crossover step occurs at two random points.
+
 • Mutation ration is flexible, in which the user can specify its value when execute 
 the algorithm.
+
+• Students organize the program regarding to the OOP model, ensure source code 
+is compact and reasonable.
+![alt text](https://raw.githubusercontent.com/VERISBABY/AI_midterm_group04/refs/heads/main/s2.png)
