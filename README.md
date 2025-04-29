@@ -8,10 +8,12 @@ This is the midterm assignment solutions of course: Introduction to Artificial I
 + Benedict Timothy Chibuike do Task 2
 + Trần Thị Thế Nhân do Task 3
 
-***Task 1: A** with 8-Puzzle*
+Task 1: A* with 8-Puzzle
 
 In the 8-puzzle game, you have to move tiles, given an initial state, to obtain one 
-goal state. Note that
+goal state. 
+
+Note that
 • The initial state can be arbitrary permutation of 8 tiles and the blank cell.
 • After a move
 o If cell 1 and cell 3 are adjacent to each other, horizontally or vertically, 
@@ -29,7 +31,7 @@ cost of the solution.
 • Students organize the program regarding to the OOP model, ensure source code 
 is compact and reasonable.
 
-**Task 2: A* with Pacman*
+Task 2: A* with Pacman
 
 Students implement search strategies to help the pacman to collect all food points in 
 the maze.
