@@ -14,11 +14,13 @@ This is the midterm assignment solutions of course: Introduction to Artificial I
 Task 1: A* with 8-Puzzle
 
 *A visual result*
+
 ![](https://github.com/VERISBABY/AI_midterm_group04/raw/refs/heads/main/t1)
 
 Task 2: A* with Pacman
 
 *A visual result at final stage after a user played with the computer*
+
 ![](https://github.com/VERISBABY/AI_midterm_group04/raw/refs/heads/main/t2)
 
 *Task 3: 16-queens*
@@ -27,4 +29,5 @@ The problem is to place 16 queens on a chess board 16 x 16 so that there is no p
 of them attacking each other.
 
 *A visual result*
+
 ![alt text](https://github.com/VERISBABY/AI_midterm_group04/raw/refs/heads/main/t3)
